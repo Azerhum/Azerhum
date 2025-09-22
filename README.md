@@ -1,37 +1,58 @@
-# 👋 Halo, saya Muhamad Reza Kurniawan
-
-### 💻 Web Developer  
-
-Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.  
-
-- 🌱 Saat ini sedang belajar **Django** & **Flutter**  
-- 💡 Tertarik dengan **Web Development** dan **Mobile Development**  
-- 🚀 Sedang membangun aplikasi **e-commerce** menggunakan Django  
+<!-- Banner atau Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#4ECDC4">Muhammad Reza Kurniawan</span></h1>
+<h3 align="center">💻 Web & Mobile Developer | Informatics Student</h3>
 
 ---
 
-## 🛠 Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 About Me
+🌱 Currently learning **Django** & **Flutter**  
+💡 Passionate about **Web Development** and **Mobile Development**  
+🛠️ Building an **e-commerce app** with Django  
+⚡ Fun fact: I enjoy solving problems and automating tasks  
 
 ---
 
-## 🌐 Social Media
+## 🛠 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Statistik
+## 📊 GitHub Analytics
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azerhum&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azerhum&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Azerhum&theme=radical)
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="yreza1903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d93025?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ _"Code is like humor. When you have to explain it, it’s bad."_  
