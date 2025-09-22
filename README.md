@@ -31,7 +31,23 @@
 </p>
 
 ---
+## 🚧 Projects
 
+### 🎮 Game Top-up Website
+Platform top-up game online yang sedang saya bangun menggunakan **React.js**.  
+Fokus pada kemudahan pembayaran dan tampilan UI yang modern.  
+
+🔗 [Repo Project](https://github.com/USERNAME/game-topup)  
+![Preview](https://via.placeholder.com/600x300.png?text=Game+Top-up+Website+Preview)
+
+---
+
+### 🌐 Web3 Experiments
+Eksperimen sederhana untuk belajar **blockchain & smart contract** dengan Web3.js.  
+Mencoba membuat aplikasi **decentralized** seperti wallet & token transfer.  
+
+🔗 [Repo Project](https://github.com/USERNAME/web3-experiments)  
+![Preview](https://via.placeholder.com/600x300.png?text=Web3+Project+Preview)
 ## 📊 GitHub Analytics
 
 <p align="center">
