@@ -34,4 +34,4 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Azerhum&theme=radical)
